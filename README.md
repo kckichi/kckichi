@@ -1,7 +1,9 @@
-## Hi there 👋
-
+Hello hello hello
+Pony town - C + h ok and int !!!
+— semi inactive on there
+@lcwran for soc links
 <!--
-**kckichi/kckichi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**kckichi/kckichi** is a ✨ _special_ ✨ repository because its `README.md` (tponytohis file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
