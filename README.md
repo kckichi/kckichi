@@ -1,6 +1,9 @@
 Hello hello hello
-Pony town - C + h ok and int !!!
+
+Pony town : C + h ok and int !!!
+
 — semi inactive on there
+
 @lcwran for soc links
 <!--
 **kckichi/kckichi** is a ✨ _special_ ✨ repository because its `README.md` (tponytohis file) appears on your GitHub profile.
